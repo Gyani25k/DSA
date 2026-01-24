@@ -20,6 +20,16 @@ class BinarySearch:
 
 
 binary_search = BinarySearch([1,2,3,4,5,6,7,8,9,10])
+print(binary_search.search(1))
+
+
+binary_search = BinarySearch([1,2,3,4,5,6,7,8,9,10])
 print(binary_search.search(5))
 
 
+binary_search = BinarySearch([1,2,3,4,5,6,7,8,9,10])
+print(binary_search.search(10))
+
+
+binary_search = BinarySearch([1,2,3,4,5,6,7,8,9,10])
+print(binary_search.search(11))
