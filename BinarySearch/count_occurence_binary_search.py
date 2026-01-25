@@ -16,4 +16,4 @@ class CountOccurenceOfBNunmbers:
 
 
 binary_search = CountOccurenceOfBNunmbers([1,1, 2, 2, 3, 3, 4, 5, 6, 7,7,7,7,7, 8, 9, 10])
-print(binary_search.count(7)) 
+print(binary_search.count(7))
